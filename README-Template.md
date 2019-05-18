@@ -14,7 +14,7 @@ node.js
 ### Installing
 
 installation du server <br>
-$ npm install connect serve-static
+$ npm install connect serve-static <br>
 $ node server.js
 
 ## Running the tests
