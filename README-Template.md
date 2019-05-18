@@ -21,6 +21,7 @@ $ node server.js
 
  ![](img/image1.png)<br>
  ![](img/image2.png)<br>
+ ![](img/image3.png)<br>
 
 ## Authors
 
